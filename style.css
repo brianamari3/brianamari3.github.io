@@ -1,4 +1,40 @@
-h1 {
-  color: red;
-  font-size: 100px;
-  }
+* {
+  background-color: #000055;
+
+}
+#title {
+ font-size: 12pt;
+  font-family: 'Bree Serif', serif;
+  text-align: center;
+    border: solid black; 
+    background-color: #99FFFF;
+  margin: 30px;
+} 
+h1{
+  background-color:#99FFFF;
+}
+h2{
+  background-color:#99FFFF;
+}
+#image {
+  text-align: center;
+}
+#one {
+  background-color: #6699BB;
+  border: dashed black;
+  font-size: 17pt;
+  font-family: 'Bree Serif', serif;
+  padding: 10px;
+  margin: 50px;
+}
+img {
+  border: solid black;
+}
+#two {
+   background-color: #6699BB;
+  border: dashed black;
+  font-size: 17pt;
+  font-family: 'Bree Serif', serif;
+  padding: 10px;
+  margin: 50px;
+}
