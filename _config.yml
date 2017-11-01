@@ -1,2 +1,4 @@
-	name: Briana's Blog
-	markdown: kramdown 
+name: Hank Quinlan, Horrible Cop
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
