@@ -4,4 +4,4 @@ title: "briana's first post"
 date: 2017-11-04
 ---
 
-im very confused in life. im passing with the bare minimal. life's great. 
+im very confused in life. im passing with the bare minimal. life's great. more. <a href="http://www.thirdstoryies.com"> 
