@@ -39,3 +39,6 @@ img {
   padding: 10px;
   margin: 50px;
 }
+.content{
+  border: dashed black;
+}
